@@ -23,7 +23,8 @@ while True:
 	driver.close()
 
 	tabs = driver.window_handles
-
+	
 	for tab in tabs:
-		tab.close()
+		driver.switch_to.window(tab)
+		driver.close()
 	

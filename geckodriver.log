@@ -745,3 +745,18 @@ IPDL protocol error: Handler returned error code!
 
 ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
 
+1606164331474	geckodriver	INFO	Listening on 127.0.0.1:34263
+1606164331480	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile977LBe"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606164335926	Marionette	INFO	Listening on port 36323
+1606164336041	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://js.wpnsrv.com/pn.php, line 1: SyntaxError: redeclaration of let exoPnSubscriber
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://js.wpnsrv.com/pn.php, line 1: SyntaxError: redeclaration of let exoPnSubscriber
+JavaScript warning: https://assets.myfreecams.com/_js/mfccore.js?vcc=1605919979, line 945: unreachable code after return statement
+JavaScript warning: https://assets.myfreecams.com/_js/mfccore.js?vcc=1605919979, line 945: unreachable code after return statement
+JavaScript warning: https://assets.myfreecams.com/_js/top.js?vcc=1605919979, line 148: unreachable code after return statement
+JavaScript warning: https://assets.myfreecams.com/_js/top.js?vcc=1605919979, line 291: unreachable code after return statement
+JavaScript warning: https://assets.myfreecams.com/_js/player.js?vcc=1605919979, line 5: unreachable code after return statement
+JavaScript warning: https://assets.myfreecams.com/_js/player.js?vcc=1605919979, line 5: unreachable code after return statement
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
