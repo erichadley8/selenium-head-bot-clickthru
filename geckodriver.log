@@ -625,3 +625,123 @@ Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1606163705161	geckodriver	INFO	Listening on 127.0.0.1:48933
+1606163705167	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelxtZwf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606163709473	Marionette	INFO	Listening on port 35219
+1606163709531	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://js.wpnsrv.com/pn.php, line 1: SyntaxError: redeclaration of let exoPnSubscriber
+JavaScript error: https://js.wpnsrv.com/pn.php, line 1: SyntaxError: redeclaration of let exoPnSubscriber
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1606163801231	Marionette	INFO	Stopped listening on port 35219
+1606163802295	geckodriver	INFO	Listening on 127.0.0.1:59219
+1606163802298	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaZzeEq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606163806898	Marionette	INFO	Listening on port 34971
+1606163806958	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://js.wpnsrv.com/pn.php, line 1: SyntaxError: redeclaration of let exoPnSubscriber
+JavaScript warning: https://assets.myfreecams.com/_js/mfccore.js?vcc=1605919979, line 945: unreachable code after return statement
+JavaScript warning: https://assets.myfreecams.com/_js/mfccore.js?vcc=1605919979, line 945: unreachable code after return statement
+JavaScript warning: https://assets.myfreecams.com/_js/top.js?vcc=1605919979, line 148: unreachable code after return statement
+JavaScript warning: https://assets.myfreecams.com/_js/top.js?vcc=1605919979, line 291: unreachable code after return statement
+JavaScript warning: https://assets.myfreecams.com/_js/player.js?vcc=1605919979, line 5: unreachable code after return statement
+1606163865040	Marionette	INFO	Stopped listening on port 34971
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1606163866245	geckodriver	INFO	Listening on 127.0.0.1:37013
+1606163866249	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileciRP9f"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606163870644	Marionette	INFO	Listening on port 40479
+1606163870745	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://js.wpnsrv.com/pn.php, line 1: SyntaxError: redeclaration of let exoPnSubscriber
+1606163901160	Marionette	INFO	Stopped listening on port 40479
+1606163902513	geckodriver	INFO	Listening on 127.0.0.1:47239
+1606163902518	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemMNrwv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606163907066	Marionette	INFO	Listening on port 37131
+1606163907168	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://js.wpnsrv.com/pn.php, line 1: SyntaxError: redeclaration of let exoPnSubscriber
+1606163945485	Marionette	INFO	Stopped listening on port 37131
+1606163977804	geckodriver	INFO	Listening on 127.0.0.1:35423
+1606163977811	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFX1lbD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606163982254	Marionette	INFO	Listening on port 33469
+1606163982366	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://js.wpnsrv.com/pn.php, line 1: SyntaxError: redeclaration of let exoPnSubscriber
+1606164002967	Marionette	INFO	Stopped listening on port 33469
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1606164007742	geckodriver	INFO	Listening on 127.0.0.1:46135
+1606164007749	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTSRB7Y"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606164012648	Marionette	INFO	Listening on port 32809
+1606164012702	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://js.wpnsrv.com/pn.php, line 1: SyntaxError: redeclaration of let exoPnSubscriber
+1606164047589	Marionette	INFO	Stopped listening on port 32809
+1606164049681	geckodriver	INFO	Listening on 127.0.0.1:39357
+1606164049685	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebFClZC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606164054304	Marionette	INFO	Listening on port 37773
+1606164054446	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://js.wpnsrv.com/pn.php, line 1: SyntaxError: redeclaration of let exoPnSubscriber
+JavaScript error: https://js.wpnsrv.com/pn.php, line 1: SyntaxError: redeclaration of let exoPnSubscriber
+JavaScript warning: https://assets.myfreecams.com/_js/mfccore.js?vcc=1605919979, line 945: unreachable code after return statement
+JavaScript warning: https://assets.myfreecams.com/_js/mfccore.js?vcc=1605919979, line 945: unreachable code after return statement
+JavaScript warning: https://assets.myfreecams.com/_js/top.js?vcc=1605919979, line 148: unreachable code after return statement
+JavaScript warning: https://assets.myfreecams.com/_js/top.js?vcc=1605919979, line 291: unreachable code after return statement
+JavaScript warning: https://assets.myfreecams.com/_js/player.js?vcc=1605919979, line 5: unreachable code after return statement
+1606164090365	Marionette	INFO	Stopped listening on port 37773
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1606164091862	geckodriver	INFO	Listening on 127.0.0.1:32929
+1606164091866	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilep8mv1A"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606164096513	Marionette	INFO	Listening on port 33459
+1606164096673	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://js.wpnsrv.com/pn.php, line 1: SyntaxError: redeclaration of let exoPnSubscriber
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://js.wpnsrv.com/pn.php, line 1: SyntaxError: redeclaration of let exoPnSubscriber
+JavaScript warning: https://assets.myfreecams.com/_js/mfccore.js?vcc=1605919979, line 945: unreachable code after return statement
+JavaScript warning: https://assets.myfreecams.com/_js/mfccore.js?vcc=1605919979, line 945: unreachable code after return statement
+JavaScript warning: https://assets.myfreecams.com/_js/top.js?vcc=1605919979, line 148: unreachable code after return statement
+JavaScript warning: https://assets.myfreecams.com/_js/top.js?vcc=1605919979, line 291: unreachable code after return statement
+JavaScript warning: https://assets.myfreecams.com/_js/player.js?vcc=1605919979, line 5: unreachable code after return statement
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 594: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 594: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1606164131291	Marionette	INFO	Stopped listening on port 33459
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+JavaScript error: , line 0: TypeError: ServiceWorker script at https://www.myfreecams.com/service-worker.js for scope https://www.myfreecams.com/ encountered an error during installation.
+1606164132790	geckodriver	INFO	Listening on 127.0.0.1:33215
+1606164132795	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyQX9nh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606164137346	Marionette	INFO	Listening on port 38919
+1606164137456	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://js.wpnsrv.com/pn.php, line 1: SyntaxError: redeclaration of let exoPnSubscriber
+1606164150467	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1606164150964	Marionette	INFO	Stopped listening on port 38919
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
