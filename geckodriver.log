@@ -555,3 +555,73 @@ console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resou
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1606161471884	geckodriver	INFO	Listening on 127.0.0.1:50011
+1606161471891	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8dP1bK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606161476320	Marionette	INFO	Listening on port 41367
+1606161476461	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: https://js.wpnsrv.com/pn.php, line 1: SyntaxError: redeclaration of let exoPnSubscriber
+1606161647529	Marionette	INFO	Stopped listening on port 41367
+1606161650504	geckodriver	INFO	Listening on 127.0.0.1:60527
+1606161650508	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRIlrl8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606161654925	Marionette	INFO	Listening on port 42825
+1606161655064	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1606161734661	geckodriver	INFO	Listening on 127.0.0.1:54281
+1606161734667	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1Zp70t"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606161739070	Marionette	INFO	Listening on port 42973
+1606161739130	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1606163490380	geckodriver	INFO	Listening on 127.0.0.1:59281
+1606163490387	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7HeBlM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606163494793	Marionette	INFO	Listening on port 40469
+1606163494851	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://js.wpnsrv.com/pn.php, line 1: SyntaxError: redeclaration of let exoPnSubscriber
+JavaScript error: https://js.wpnsrv.com/pn.php, line 1: SyntaxError: redeclaration of let exoPnSubscriber
+JavaScript warning: https://assets.myfreecams.com/_js/mfccore.js?vcc=1605919979, line 945: unreachable code after return statement
+JavaScript warning: https://assets.myfreecams.com/_js/mfccore.js?vcc=1605919979, line 945: unreachable code after return statement
+JavaScript warning: https://assets.myfreecams.com/_js/top.js?vcc=1605919979, line 148: unreachable code after return statement
+JavaScript warning: https://assets.myfreecams.com/_js/top.js?vcc=1605919979, line 291: unreachable code after return statement
+JavaScript warning: https://assets.myfreecams.com/_js/player.js?vcc=1605919979, line 5: unreachable code after return statement
+JavaScript warning: https://assets.myfreecams.com/_js/player.js?vcc=1605919979, line 5: unreachable code after return statement
+1606163558749	geckodriver	INFO	Listening on 127.0.0.1:45587
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1606163559756	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1ZqDgp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606163564715	Marionette	INFO	Listening on port 46405
+1606163564827	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://js.wpnsrv.com/pn.php, line 1: SyntaxError: redeclaration of let exoPnSubscriber
+JavaScript error: https://js.wpnsrv.com/pn.php, line 1: SyntaxError: redeclaration of let exoPnSubscriber
+JavaScript warning: https://assets.myfreecams.com/_js/mfccore.js?vcc=1605919979, line 945: unreachable code after return statement
+JavaScript warning: https://assets.myfreecams.com/_js/mfccore.js?vcc=1605919979, line 945: unreachable code after return statement
+JavaScript warning: https://assets.myfreecams.com/_js/top.js?vcc=1605919979, line 148: unreachable code after return statement
+JavaScript warning: https://assets.myfreecams.com/_js/top.js?vcc=1605919979, line 291: unreachable code after return statement
+JavaScript warning: https://assets.myfreecams.com/_js/player.js?vcc=1605919979, line 5: unreachable code after return statement
+1606163599508	geckodriver	INFO	Listening on 127.0.0.1:54621
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1606163600514	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejcjutY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606163605580	Marionette	INFO	Listening on port 44913
+1606163605674	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
